@@ -1,0 +1,1339 @@
+{
+    "Aventura": {
+        "Blood Echo 1": {
+            "ID": 46,
+            "Telegram": "/BloodEcho1 - Blood Echo 1 - L.E Royal",
+            "Name": "/BloodEcho1"
+        },
+        "Blood Echo 2 Blood Lust": {
+            "ID": 47,
+            "Telegram": "/BloodEcho2 - Blood Echo 2 Blood Lust - L.E Royal",
+            "Name": "/BloodEcho2"
+        },
+        "Not Your Backup": {
+            "ID": 156,
+            "Telegram": "/NotYourBackup - Not Your Backup - C.B. Lee",
+            "Name": "/NotYourBackup"
+        },
+        "Not Your Sidekick": {
+            "ID": 157,
+            "Telegram": "/NotYourSidekick - Not Your Sidekick - C.B. Lee",
+            "Name": "/NotYourSidekick"
+        },
+        "Not Your Villain (Sidekick Squad)": {
+            "ID": 158,
+            "Telegram": "/NotYourVillain - Not Your Villain (Sidekick Squad) - C.B. Lee",
+            "Name": "/NotYourVillain"
+        },
+        "Hide": {
+            "ID": 109,
+            "Telegram": "/Hide - Hide - Kiersten White",
+            "Name": "/Hide"
+        },
+        "Falling Creatures": {
+            "ID": 86,
+            "Telegram": "/FallingCreatures - Falling Creatures - Katherine Stansfield",
+            "Name": "/FallingCreatures"
+        },
+        "Out Now": {
+            "ID": 179,
+            "Telegram": "/OutNow - Out Now - V\u00e1rios Autores",
+            "Name": "/OutNow"
+        }
+    },
+    "Biografia": {
+        "A Talentosa Highsmith": {
+            "ID": 16,
+            "Telegram": "/ATalentosaHighsmith - A Talentosa Highsmith - Joan Schenkar",
+            "Name": "/ATalentosaHighsmith"
+        },
+        "A Teus P\u00e9s": {
+            "ID": 18,
+            "Telegram": "/ATeusP - A Teus P\u00e9s - Ana Cristina Cesar",
+            "Name": "/ATeusP"
+        },
+        "Carne Em Del\u00edrio": {
+            "ID": 51,
+            "Telegram": "/CarneEmDe - Carne Em Del\u00edrio - Cassandra Rios",
+            "Name": "/CarneEmDe"
+        },
+        "Eu Sou Uma L\u00e9sbica": {
+            "ID": 83,
+            "Telegram": "/EuSouUma - Eu Sou Uma L\u00e9sbica - Cassandra Rios",
+            "Name": "/EuSouUma"
+        },
+        "Fun Home Uma Tragicom\u00e9dia Em Fam\u00edlia": {
+            "ID": 92,
+            "Telegram": "/FunHome - Fun Home Uma Tragicom\u00e9dia Em Fam\u00edlia - Alison Bechdel",
+            "Name": "/FunHome"
+        },
+        "Orange Is the New Black": {
+            "ID": 174,
+            "Telegram": "/OrangeIsTheNew - Orange Is the New Black - Piper Kerman",
+            "Name": "/OrangeIsTheNew"
+        },
+        "Orlando": {
+            "ID": 175,
+            "Telegram": "/Orlando - Orlando - Virginia Woolf",
+            "Name": "/Orlando"
+        },
+        "Voc\u00ea \u00e9 Minha M\u00e3e": {
+            "ID": 256,
+            "Telegram": "/VoceEMinha - Voc\u00ea \u00e9 Minha M\u00e3e - Alison Bechdel",
+            "Name": "/VoceEMinha"
+        },
+        "As Freiras L\u00e9sbicas Rompendo o Sil\u00eancio": {
+            "ID": 34,
+            "Telegram": "/AsFreiras - As Freiras L\u00e9sbicas Rompendo o Sil\u00eancio - Rosemary Curb e Nancy Manahan",
+            "Name": "/AsFreiras"
+        },
+        "As Horas": {
+            "ID": 35,
+            "Telegram": "/AsHoras - As Horas - Michael Cunningham",
+            "Name": "/AsHoras"
+        },
+        "SCUM Manifesto": {
+            "ID": 193,
+            "Telegram": "/Manifesto - SCUM Manifesto - Valerie Solanas",
+            "Name": "/Manifesto"
+        },
+        "Irm\u00e3 Outsider": {
+            "ID": 121,
+            "Telegram": "/IrmaOutsider - Irm\u00e3 Outsider - Aundre Lorde",
+            "Name": "/IrmaOutsider"
+        },
+        "When Katie Met Cassidy": {
+            "ID": 261,
+            "Telegram": "/WhenKatieMet - When Katie Met Cassidy - Camila Perri",
+            "Name": "/WhenKatieMet"
+        },
+        "Love Letters Vita and Virginia": {
+            "ID": 136,
+            "Telegram": "/LoveLettersVita - Love Letters Vita and Virginia - Vita SackvilleWest e Virginia Woolf",
+            "Name": "/LoveLettersVita"
+        },
+        "As Insepar\u00e1veis": {
+            "ID": 36,
+            "Telegram": "/AsInsepar - As Insepar\u00e1veis - Simone de Beauvoir",
+            "Name": "/AsInsepar"
+        }
+    },
+    "Drama": {
+        "A Cor P\u00farpura": {
+            "ID": 4,
+            "Telegram": "/ACorP - A Cor P\u00farpura - Alice Walker",
+            "Name": "/ACorP"
+        },
+        "Carmilla": {
+            "ID": 50,
+            "Telegram": "/Carmilla - Carmilla - J. Sheridan Le Fanu",
+            "Name": "/Carmilla"
+        },
+        "Cartas De Amor Aos Mortos": {
+            "ID": 53,
+            "Telegram": "/CartasDeAmorAos - Cartas De Amor Aos Mortos - Ava Dellaira",
+            "Name": "/CartasDeAmorAos"
+        },
+        "Leah Fora De Sintonia": {
+            "ID": 131,
+            "Telegram": "/LeahForaDeSintonia - Leah Fora De Sintonia - Becky Albertalli",
+            "Name": "/LeahForaDeSintonia"
+        },
+        "Meninas selvagens": {
+            "ID": 139,
+            "Telegram": "/MeninasSelvagens - Meninas selvagens",
+            "Name": "/MeninasSelvagens"
+        },
+        "O Capricho das Estrelas": {
+            "ID": 161,
+            "Telegram": "/oCaprichoDas - O Capricho das Estrelas - Emma Donoghue",
+            "Name": "/oCaprichoDas"
+        },
+        "O Enterro das Minhas Ex": {
+            "ID": 163,
+            "Telegram": "/OEnterroDasMinhasEx - O Enterro das Minhas Ex - Anne Gauthier",
+            "Name": "/OEnterroDasMinhasEx"
+        },
+        "Orpheus Girl": {
+            "ID": 176,
+            "Telegram": "/OrpheusGirl - Orpheus Girl - Brynne Rebele-Henry",
+            "Name": "/OrpheusGirl"
+        },
+        "Os Dois Mundos de Astrid Jones": {
+            "ID": 177,
+            "Telegram": "/OsDoisMundosDeAstrid - Os Dois Mundos de Astrid Jones - A. S. King",
+            "Name": "/OsDoisMundosDeAstrid"
+        },
+        "Se Voc\u00ea Pudesse Ser Minha": {
+            "ID": 194,
+            "Telegram": "/SeVoce - Se Voc\u00ea Pudesse Ser Minha - Sara Farizan",
+            "Name": "/SeVoce"
+        },
+        "Tudo Muda, Tudo Passa": {
+            "ID": 249,
+            "Telegram": "/TudoMuda - Tudo Muda, Tudo Passa - Raydon Donovan",
+            "Name": "/TudoMuda"
+        },
+        "Agora que Ele se Foi": {
+            "ID": 22,
+            "Telegram": "/AgoraQueEle - Agora que Ele se Foi - Elizabeth Acevedo",
+            "Name": "/AgoraQueEle"
+        },
+        "Its Not Like Its a Secret": {
+            "ID": 123,
+            "Telegram": "/ItsNotLikeIts - Its Not Like Its a Secret - Sugiura Misa",
+            "Name": "/ItsNotLikeIts"
+        },
+        "Laura Dean Vive Terminando Comigo": {
+            "ID": 130,
+            "Telegram": "/LauraDeanVive - Laura Dean Vive Terminando Comigo - Mariko Tamaki Rosemary Valero-O\u2019Connell",
+            "Name": "/LauraDeanVive"
+        },
+        "Lies My Girlfriend Told Me": {
+            "ID": 134,
+            "Telegram": "/LiesMyGirlfriend - Lies My Girlfriend Told Me - Peters Julie Anne",
+            "Name": "/LiesMyGirlfriend"
+        },
+        "Na Casa dos Sonhos": {
+            "ID": 148,
+            "Telegram": "/NaCasaDosSonhos - Na Casa dos Sonhos - Carmen Maria Machado",
+            "Name": "/NaCasaDosSonhos"
+        },
+        "Erros e Recome\u00e7os": {
+            "ID": 78,
+            "Telegram": "/ErrosERecome - Erros e Recome\u00e7os - Bruma",
+            "Name": "/ErrosERecome"
+        },
+        "O Mau Exemplo de Cameron Post (Extendido)": {
+            "ID": 166,
+            "Telegram": "/OMauExemploDe - O Mau Exemplo de Cameron Post (Extendido) - Emily M. Danforth",
+            "Name": "/OMauExemploDe"
+        },
+        "Disobedience": {
+            "ID": 70,
+            "Telegram": "/Disobedience - Disobedience - Naomi Alderman",
+            "Name": "/Disobedience"
+        },
+        "Bem vindos ao Paraiso": {
+            "ID": 43,
+            "Telegram": "/BemVindosAoPar - Bem vindos ao Paraiso - Nicole Dennis-Benn",
+            "Name": "/BemVindosAoPar"
+        },
+        "First Position": {
+            "ID": 266,
+            "Telegram": "/FirstPosition - First Position - Melissa Brayden",
+            "Name": "/FirstPosition"
+        },
+        "They Never Learn": {
+            "ID": 239,
+            "Telegram": "/TheyNeverLearn - They Never Learn - Layne Fargo",
+            "Name": "/TheyNeverLearn"
+        },
+        "De Volta Para Casa": {
+            "ID": 65,
+            "Telegram": "/DeVoltaParaCasa - De Volta Para Casa - Seanan McGuire",
+            "Name": "/DeVoltaParaCasa"
+        },
+        "Entre Gravetos e Ossos [livro 2]": {
+            "ID": 77,
+            "Telegram": "/EntreGravetosEOssos - Entre Gravetos e Ossos [livro 2] - Seanan McGuire",
+            "Name": "/EntreGravetosEOssos"
+        },
+        "Illusion": {
+            "ID": 117,
+            "Telegram": "/Illusion - Illusion - Sabrina H. Faith",
+            "Name": "/Illusion"
+        },
+        "Reconstruindo Amelia": {
+            "ID": 187,
+            "Telegram": "/ReconstruindoAmelia - Reconstruindo Amelia - Kimberly McCreight",
+            "Name": "/ReconstruindoAmelia"
+        },
+        "Sawkill Girls": {
+            "ID": 192,
+            "Telegram": "/SawkillGirls - Sawkill Girls - Claire Legrand",
+            "Name": "/SawkillGirls"
+        },
+        "Sing Anyway": {
+            "ID": 201,
+            "Telegram": "/SingAnyway - Sing Anyway - Anita Kelly",
+            "Name": "/SingAnyway"
+        },
+        "The Lily and The Crown": {
+            "ID": 228,
+            "Telegram": "/TheLilyAnd - The Lily and The Crown - Roslyn Sinclair",
+            "Name": "/TheLilyAnd"
+        },
+        "The Wild Ones": {
+            "ID": 237,
+            "Telegram": "/TheWildOnes - The Wild Ones - Nafiza Azad",
+            "Name": "/TheWildOnes"
+        },
+        "Watch Over Me": {
+            "ID": "258",
+            "Telegram": "/WatchOverMe - Watch Over Me - Nina LaCour",
+            "Name": "/WatchOverMe"
+        },
+        "Eudem\u00f4nia": {
+            "ID": 84,
+            "Telegram": "/Eudemonia - Eudem\u00f4nia - Cassandra Rios",
+            "Name": "/Eudemonia"
+        }
+    },
+    "Fantasia": {
+        "Amaldi\u00e7oadas": {
+            "ID": 24,
+            "Telegram": "/Amaldicoadas - Amaldi\u00e7oadas - Jessica Spotswood",
+            "Name": "/Amaldicoadas"
+        },
+        "Auroras Angel": {
+            "ID": 40,
+            "Telegram": "/AurorasAng - Auroras Angel - Emily Noon",
+            "Name": "/AurorasAng"
+        },
+        "Ash": {
+            "ID": 37,
+            "Telegram": "/Ash - Ash - Malinda Lo",
+            "Name": "/Ash"
+        },
+        "Breaking Legacies": {
+            "ID": 48,
+            "Telegram": "/BreakingLegacies - Breaking Legacies - Zoe Reed",
+            "Name": "/BreakingLegacies"
+        },
+        "Criers War": {
+            "ID": 62,
+            "Telegram": "/CriersWar - Criers War - Nina Varela",
+            "Name": "/CriersWar"
+        },
+        "Fireheart Tiger": {
+            "ID": 88,
+            "Telegram": "/FireheartTiger - Fireheart Tiger - Aliette de Bodard",
+            "Name": "/FireheartTiger"
+        },
+        "fogo e estrelas": {
+            "ID": 90,
+            "Telegram": "/FogoEEstrelas - fogo e estrelas - Audrey Coulthurst",
+            "Name": "/FogoEEstrelas"
+        },
+        "Garotas de Neve e Vidro": {
+            "ID": 93,
+            "Telegram": "/GarotasDeNeveEVidro - Garotas de Neve e Vidro - Melissa Bashardoust",
+            "Name": "/GarotasDeNeveEVidro"
+        },
+        "Girls of Storm and Shadow": {
+            "ID": 102,
+            "Telegram": "/GirlsOfStorm - Girls of Storm and Shadow - Natasha Ngan",
+            "Name": "/GirlsOfStorm"
+        },
+        "Girls of Fate and Fury": {
+            "ID": 100,
+            "Telegram": "/GirlsOfFate - Girls of Fate and Fury - Natasha Ngan",
+            "Name": "/GirlsOfFate"
+        },
+        "Girl Serpent, Thorn": {
+            "ID": 98,
+            "Telegram": "/GirlSerpent - Girl Serpent, Thorn - Melissa Bashardoust",
+            "Name": "/GirlSerpent"
+        },
+        "Godsgrave": {
+            "ID": 103,
+            "Telegram": "/Godsgrave - Godsgrave - Jay Kristoff",
+            "Name": "/Godsgrave"
+        },
+        "In The Ravenenous Dark": {
+            "ID": 118,
+            "Telegram": "/InTheRavenenousDark - In The Ravenenous Dark - A. M. Strickland",
+            "Name": "/InTheRavenenousDark"
+        },
+        "Inkmistress": {
+            "ID": 119,
+            "Telegram": "/Inkmistress - Inkmistress - Audrey Coulthurst",
+            "Name": "/Inkmistress"
+        },
+        "Iron HeartCS": {
+            "ID": 122,
+            "Telegram": "/IronHeartCS - Iron HeartCS - Nina Varela",
+            "Name": "/IronHeartCS"
+        },
+        "Malice": {
+            "ID": 137,
+            "Telegram": "/Malice - Malice - Heather Walter",
+            "Name": "/Malice"
+        },
+        "Nimona": {
+            "ID": 153,
+            "Telegram": "/Nimona - Nimona - Noelle Stevenson",
+            "Name": "/Nimona"
+        },
+        "Witching Moon": {
+            "ID": 262,
+            "Telegram": "/WitchingMoon - Witching Moon - Poppy Woods",
+            "Name": "/WitchingMoon"
+        },
+        "Princess Princess Ever After": {
+            "ID": 183,
+            "Telegram": "/PrincessPrincess - Princess Princess Ever After - Katie O_Neill",
+            "Name": "/PrincessPrincess"
+        },
+        "queen of broken hearts": {
+            "ID": 184,
+            "Telegram": "/QueenOfBrokenHearts - queen of broken hearts",
+            "Name": "/QueenOfBrokenHearts"
+        },
+        "the midnight lie": {
+            "ID": 232,
+            "Telegram": "/theMidnightLie - the midnight lie",
+            "Name": "/theMidnightLie"
+        },
+        "These Witches Dont Burn": {
+            "ID": 238,
+            "Telegram": "/TheseWitchesDo - These Witches Dont Burn",
+            "Name": "/TheseWitchesDo"
+        },
+        "This Coven Wont Break": {
+            "ID": 240,
+            "Telegram": "/ThisCovenWo - This Coven Wont Break",
+            "Name": "/ThisCovenWo"
+        },
+        "This Spell Cant Last": {
+            "ID": 241,
+            "Telegram": "/ThisSpellCan - This Spell Cant Last",
+            "Name": "/ThisSpellCan"
+        },
+        "We Set the Dark on Fire": {
+            "ID": 259,
+            "Telegram": "/WeSettheDarkonFire - We Set the Dark on Fire - Tehlor Kay Mejia",
+            "Name": "/WeSettheDarkonFire"
+        },
+        "We Unleash the Merciless Storm": {
+            "ID": 260,
+            "Telegram": "/WeUnleashThe - We Unleash the Merciless Storm - Tehlor Kay Mejia",
+            "Name": "/WeUnleashThe"
+        },
+        "Ruinsong": {
+            "ID": 189,
+            "Telegram": "/Ruinsong - Ruinsong - Julia Ember",
+            "Name": "/Ruinsong"
+        },
+        "The Black Tides Of Heaven": {
+            "ID": 211,
+            "Telegram": "/TheBlackTides - The Black Tides Of Heaven - J.Y. Yang",
+            "Name": "/TheBlackTides"
+        },
+        "The Priory of The Orange Tree": {
+            "ID": 234,
+            "Telegram": "/ThePrioryOf - The Priory of The Orange Tree - Samantha Shannon (Traducao n\u00e3o oficial)",
+            "Name": "/ThePrioryOf"
+        },
+        "Cinderella Is Dead": {
+            "ID": 56,
+            "Telegram": "/CinderellaIsDead - Cinderella Is Dead - Kalynn Bayron",
+            "Name": "/CinderellaIsDead"
+        },
+        "Girls of Paper and Fire": {
+            "ID": 101,
+            "Telegram": "/GirlsOfPaperAnd - Girls of Paper and Fire - Natasha Ngan and James Patterson",
+            "Name": "/GirlsOfPaperAnd"
+        },
+        "Misrule": {
+            "ID": 144,
+            "Telegram": "/Misrule - Misrule - Heather Walter",
+            "Name": "/Misrule"
+        },
+        "The Dark Wife": {
+            "ID": 218,
+            "Telegram": "/TheDarkWife - The Dark Wife - Sarah Diemer",
+            "Name": "/TheDarkWife"
+        },
+        "The Lost Girls": {
+            "ID": 229,
+            "Telegram": "/TheLostGirls - The Lost Girls - Sonia Hartl",
+            "Name": "/TheLostGirls"
+        },
+        "The Bone Way": {
+            "ID": 213,
+            "Telegram": "/TheBoneWay - The Bone Way - Holly J. Underhill",
+            "Name": "/TheBoneWay"
+        },
+        "A Dark and Hollow Star": {
+            "ID": 5,
+            "Telegram": "/ADarkAnd - A Dark and Hollow Star - Ashley Shuttleworth",
+            "Name": "/ADarkAnd"
+        },
+        "Sweet Bitter Magic": {
+            "ID": 207,
+            "Telegram": "/SweetAndBitterMagic - Sweet Bitter Magic - Adrienne Tooley",
+            "Name": "/SweetAndBitterMagic"
+        },
+        "Dreams Bigger Than Heartbreak": {
+            "ID": 72,
+            "Telegram": "/DreamsBigger - Dreams Bigger Than Heartbreak - Charlie Jane Anders",
+            "Name": "/DreamsBigger"
+        },
+        "The Bone Orchard": {
+            "ID": 212,
+            "Telegram": "/TheBoneOrchard - The Bone Orchard - Sara A. Mueller",
+            "Name": "/TheBoneOrchard"
+        },
+        "The Book of Living Secrets": {
+            "ID": 214,
+            "Telegram": "/TheBookOfLiving - The Book of Living Secrets - Madeleine Roux",
+            "Name": "/TheBookOfLiving"
+        },
+        "Victories Greater Than Death": {
+            "ID": 255,
+            "Telegram": "/VictoriesGreaterThan - Victories Greater Than Death - Charlie Jane Anders",
+            "Name": "/VictoriesGreaterThan"
+        },
+        "O Priorado da Laranjeira": {
+            "ID": 168,
+            "Telegram": "/OPrioradoDa - O Priorado da Laranjeira - Samantha Shannon",
+            "Name": "/OPrioradoDa"
+        },
+        "Ice Massacre Mermaids of Eriana Kwai": {
+            "ID": 116,
+            "Telegram": "/IceMassacre - Ice Massacre Mermaids of Eriana Kwai - Tiana Warner",
+            "Name": "/IceMassacre"
+        },
+        "Ghost Wood Song": {
+            "ID": 97,
+            "Telegram": "/GhostWoodSong - Ghost Wood Song - Erica Waters",
+            "Name": "/GhostWoodSong"
+        },
+        "O Priorado da Laranjeira A Rainha": {
+            "ID": 169,
+            "Telegram": "/OPrioradoDaLaranjeiraARainha - O Priorado da Laranjeira A Rainha - Samantha Shannon",
+            "Name": "/OPrioradoDaLaranjeiraARainha"
+        },
+        "The Dark Tide": {
+            "ID": 217,
+            "Telegram": "/TheDarkTide - The Dark Tide - Alicia Jasinska",
+            "Name": "/TheDarkTide"
+        },
+        "The Hollow Heart": {
+            "ID": 225,
+            "Telegram": "/TheHollowHeart - The Hollow Heart - Marie Rutkoski",
+            "Name": "/TheHollowHeart"
+        },
+        "The Midnight Girls": {
+            "ID": 231,
+            "Telegram": "/TheMidnightGirls - The Midnight Girls - Alicia Jasinska",
+            "Name": "/TheMidnightGirls"
+        },
+        "Deathless Divide": {
+            "ID": 67,
+            "Telegram": "/DeathlessDivide - Deathless Divide - Justina Ireland",
+            "Name": "/DeathlessDivide"
+        },
+        "Once and /Future": {
+            "ID": 172,
+            "Telegram": "/OnceAndFuture - Once and Future - Amy Rose Capetta, Cori McCarthy",
+            "Name": "/OnceAndFuture"
+        },
+        "Sword in The Stars": {
+            "ID": 208,
+            "Telegram": "/SwordInThe - Sword in The Stars - Amy Rose Capetta and Cori McCarthy",
+            "Name": "/SwordInThe"
+        },
+        "The Mermaid, the Witch and the Sea": {
+            "ID": 230,
+            "Telegram": "/AndTheSea - The Mermaid, the Witch and the Sea - Maggie Tokuda Hall",
+            "Name": "/AndTheSea"
+        },
+        "Vibe (Pandora Box)": {
+            "ID": 254,
+            "Telegram": "/Vibe - Vibe (Pandora Box) - Liza James",
+            "Name": "/Vibe"
+        },
+        "Hush (Pandora Box 2)": {
+            "ID": 112,
+            "Telegram": "/Hush - Hush (Pandora Box 2) - Liza James",
+            "Name": "/Hush"
+        },
+        "A dowry of blood": {
+            "ID": 6,
+            "Telegram": "/ADowryOf - A dowry of blood - S. T. Gibson",
+            "Name": "/ADowryOf"
+        },
+        "A Floresta Quebrada": {
+            "ID": 7,
+            "Telegram": "/AFlorestaQuebrada - A Floresta Quebrada -  Megan Derr",
+            "Name": "/AFlorestaQuebrada"
+        },
+        "\u00c1s de Espadas": {
+            "ID": 264,
+            "Telegram": "/AsDeEspadas - \u00c1s de Espadas - Faridah \u00c0b\u00edk\u00e9-\u00cdy\u00edm\u00edd\u00e9",
+            "Name": "/AsDeEspadas"
+        },
+        "Black Iris": {
+            "ID": 44,
+            "Telegram": "/BlackIris - Black Iris - Leah Raeder",
+            "Name": "/BlackIris"
+        },
+        "Blanca and Roja": {
+            "ID": 45,
+            "Telegram": "/BlancaAndRoja - Blanca and Roja - Anna-Marie McLemore",
+            "Name": "/BlancaAndRoja"
+        },
+        "Cinderela esta morta": {
+            "ID": 55,
+            "Telegram": "/CinderelaEsta - Cinderela esta morta - Kalynn Bayron",
+            "Name": "/CinderelaEsta"
+        },
+        "Dread Nation": {
+            "ID": 71,
+            "Telegram": "/DreadNation - Dread Nation",
+            "Name": "/DreadNation"
+        },
+        "Frost": {
+            "ID": 91,
+            "Telegram": "/Frost - Frost - Liza James",
+            "Name": "/Frost"
+        },
+        "O Feiti\u00e7o dos Espinhos": {
+            "ID": 164,
+            "Telegram": "/FeiticoDosEspinhos - O Feiti\u00e7o dos Espinhos - Margaret Rogerson",
+            "Name": "/FeiticoDosEspinhos"
+        },
+        "Saga do T\u00famulo Trancafiado 1 Gideon, a Nona": {
+            "ID": 190,
+            "Telegram": "/SagaDoTumuloTrancafiado - Saga do T\u00famulo Trancafiado 1 Gideon, a Nona - Tamsyn Muir",
+            "Name": "/SagaDoTumuloTrancafiado"
+        },
+        "The Library of the Unwritten 1 S\u00e9rie Hells Library": {
+            "ID": 227,
+            "Telegram": "/TheLibraryOfThe - The Library of the Unwritten 1 S\u00e9rie Hells Library - A J Hackwith",
+            "Name": "/TheLibraryOfThe"
+        },
+        "The Poppy War": {
+            "ID": 233,
+            "Telegram": "/ThePoppyWar - The Poppy War - R. F. Kuang",
+            "Name": "/ThePoppyWar"
+        },
+        "The Tensorate Series": {
+            "ID": 236,
+            "Telegram": "/TheTensorateSeries - The Tensorate Series - Neon Yang",
+            "Name": "/TheTensorateSeries"
+        },
+        "Treasured": {
+            "ID": 246,
+            "Telegram": "/Treasured - Treasured - Poppy Woods",
+            "Name": "/Treasured"
+        },
+        "Vampires Never Get Old": {
+            "ID": 253,
+            "Telegram": "/VampiresNeverGet - Vampires Never Get Old - Zoraida Cordova",
+            "Name": "/VampiresNeverGet"
+        },
+        "Walk With Spirits": {
+            "ID": 257,
+            "Telegram": "/WalkWithSpirits - Walk With Spirits - Edale Lane",
+            "Name": "/WalkWithSpirits"
+        },
+        "Robbergirl": {
+            "ID": 188,
+            "Telegram": "/Robbergirl - Robbergirl - S. T. Gibson",
+            "Name": "/Robbergirl"
+        },
+        "Girls Made of Snow and Glass": {
+            "ID": 99,
+            "Telegram": "/GirlsMadeOfSnow Girls Made of Snow and Glass - Bashardoust Melissa",
+            "Name": "/GirlsMadeOfSnow"
+        },
+        "O Guia da Donzela para An\u00e1guas e Pirataria": {
+            "ID": 165,
+            "Telegram": "/oGuiaDaDonzelaPara - O Guia da Donzela para An\u00e1guas e Pirataria [Sequencia O guia do cavalheiro para o v\u00edcio e a virtude] - Mackenzi Lee",
+            "Name": "/oGuiaDaDonzelaPara"
+        },
+        "Aurora's Angel": {
+            "ID": 39,
+            "Telegram:": "/AurorasAngel - Aurora's Angel - Emily Noon",
+            "Name": "/AurorasAngel"
+        },
+        "A Tecel\u00e3 do C\u00e9u": {
+            "ID": 17,
+            "Telegram:": "/aTecelaDoCeu - A Tecel\u00e3 do C\u00e9u - Kristen Ciccarelli",
+            "Name": "/aTecelaDoCeu"
+        }
+    },
+    "FiccaoCientifica": {
+        "A Lince e a Raposa": {
+            "ID": 10,
+            "Telegram": "/ALinceEARaposa - A Lince e a Raposa - Cristiane Schwinden",
+            "Name": "/ALinceEARaposa"
+        },
+        "Into the Abyss": {
+            "ID": 120,
+            "Telegram": "/IntoTheAb - Into the Abyss - Emily Skrutskie",
+            "Name": "/IntoTheAb"
+        },
+        "n\u00f3s somos a cidade": {
+            "ID": 160,
+            "Telegram": "/nosSomosACidade - n\u00f3s somos a cidade - N. K. Jemisin",
+            "Name": "/nosSomosACidade"
+        },
+        "The Abyss Surrounds Us": {
+            "ID": 210,
+            "Telegram": "/TheAbyssSurroundsUs - The Abyss Surrounds Us - Emily Skrutskie",
+            "Name": "/TheAbyssSurroundsUs"
+        },
+        "The Edge Of The Abyss": {
+            "ID": 220,
+            "Telegram": "/TheEdgeOfTheAbyss -  The Edge Of The Abyss - Emily Skrutskie",
+            "Name": "/TheEdgeOfTheAbyss"
+        },
+        "A Vida Compartilhada em Uma Admir\u00e1vel \u00d3rbita Fechada": {
+            "ID": 19,
+            "Telegram": "/AVidaCompartilhada - A Vida Compartilhada em Uma Admir\u00e1vel \u00d3rbita Fechada - Becky Chambers",
+            "Name": "/AVidaCompartilhada"
+        }
+    },
+    "Romance": {
+        "A Camareira": {
+            "ID": 1,
+            "Telegram": "/ACamareira - A Camareira - Wind Rose",
+            "Name": "/ACamareira"
+        },
+        "A Cigana": {
+            "ID": 2,
+            "Telegram": "/ACigana - A Cigana - Wind Rose",
+            "Name": "/ACigana"
+        },
+        "Aconteceu Voc\u00ea": {
+            "ID": 20,
+            "Telegram": "/AconteceuVoc - Aconteceu Voc\u00ea - Mel Bessa",
+            "Name": "/AconteceuVoc"
+        },
+        "A Jogada do Amor": {
+            "ID": 9,
+            "Telegram": "/AJogadaDo - A Jogada do Amor - Kelly Quindlen",
+            "Name": "/AJogadaDo"
+        },
+        "Amor a Qualquer Pre\u00e7o": {
+            "ID": 25,
+            "Telegram": "/AmoraQualquer - Amor a Qualquer Pre\u00e7o - Diedra Roiz",
+            "Name": "/AmoraQualquer"
+        },
+        "Amor Indom\u00e1vel": {
+            "ID": 26,
+            "Telegram": "/AmorIndo - Amor Indom\u00e1vel - Wind Rose",
+            "Name": "/AmorIndo"
+        },
+        "Amor \u00e0s Avessas": {
+            "ID": 27,
+            "Telegram": "/AmorAsAvessas - Amor \u00e0s Avessas - Diedra Roiz",
+            "Name": "/AmorAsAvessas"
+        },
+        "Amora Stories": {
+            "ID": 28,
+            "Telegram": "/AmoraStories - Amora Stories - Natalia Borges Polesso",
+            "Name": "/AmoraStories"
+        },
+        "And Playing The Role of Herself": {
+            "ID": 30,
+            "Telegram": "/andPlayingTheRole - And Playing The Role of Herself - K.E. Lane",
+            "Name": "/andPlayingTheRole"
+        },
+        "Annie on My Mind": {
+            "ID": 31,
+            "Telegram": "/AnnieOnMy - Annie on My Mind - Nancy Garden",
+            "Name": "/AnnieOnMy"
+        },
+        "Antes que voc\u00ea diga sim": {
+            "ID": 32,
+            "Telegram": "/AntesQueVoc - Antes que voc\u00ea diga sim - Clare Lydon",
+            "Name": "/AntesQueVoc"
+        },
+        "Azul \u00e9 a Cor Mais Quente": {
+            "ID": 41,
+            "Telegram": "/AzulEACor - Azul \u00e9 a Cor Mais Quente - Julie Maroh",
+            "Name": "/AzulEACor"
+        },
+        "Carol": {
+            "ID": 52,
+            "Telegram": "/Carol - Carol - Patricia Highsmith",
+            "Name": "/Carol"
+        },
+        "Chord": {
+            "ID": 54,
+            "Telegram": "/Chord - Chord - Chelsea M. Cameron",
+            "Name": "/Chord"
+        },
+        "Colorblind": {
+            "ID": 58,
+            "Telegram": "/Colorblind - Colorblind - Siera Maley",
+            "Name": "/Colorblind"
+        },
+        "Conectadas": {
+            "ID": 59,
+            "Telegram": "/Conectadas - Conectadas - Clara Alves",
+            "Name": "/Conectadas"
+        },
+        "Cool For The Summer": {
+            "ID": 60,
+            "Telegram": "/CoolForTheSummer - Cool For The Summer - Dahlia Adler",
+            "Name": "/CoolForTheSummer"
+        },
+        "Cora\u00e7\u00e3o Selvagem": {
+            "ID": 61,
+            "Telegram": "/CoracaoSelvagem - Cora\u00e7\u00e3o Selvagem - Alice Reis",
+            "Name": "/CoracaoSelvagem"
+        },
+        "De Repente \u00e9 Amor": {
+            "ID": 64,
+            "Telegram": "/DeRepente - De Repente \u00e9 Amor - Karina Dias",
+            "Name": "/DeRepente"
+        },
+        "Dez Coisas Que Eu Odeio Em Voc\u00ea": {
+            "ID": 69,
+            "Telegram": "/DezCoisasQueEuOdeio - Dez Coisas Que Eu Odeio Em Voc\u00ea - Diedra Roiz e Karina Dias",
+            "Name": "/DezCoisasQueEuOdeio"
+        },
+        "Encontro Marcado": {
+            "ID": 74,
+            "Telegram": "/EncontroMarcado - Encontro Marcado",
+            "Name": "/EncontroMarcado"
+        },
+        "Entre Amigas": {
+            "ID": 75,
+            "Telegram": "/EntreAmigas - Entre Amigas - Bee",
+            "Name": "/EntreAmigas"
+        },
+        "Espelhos e Miragens": {
+            "ID": 79,
+            "Telegram": "/EspelhosEMiragens - Espelhos e Miragens - Hanna K",
+            "Name": "/EspelhosEMiragens"
+        },
+        "Estamos Bem": {
+            "ID": 81,
+            "Telegram": "/EstamosBem - Estamos Bem - Nina LaCour",
+            "Name": "/EstamosBem"
+        },
+        "Flores Raras e Banal\u00edssimas": {
+            "ID": 89,
+            "Telegram": "/FloresRarasE - Flores Raras e Banal\u00edssimas - Carmen L. Oliveira",
+            "Name": "/FloresRarasE"
+        },
+        "Her Name in the Sky": {
+            "ID": 107,
+            "Telegram": "/HerNameintheSky - Her Name in the Sky - Kelly Quindlen",
+            "Name": "/HerNameintheSky"
+        },
+        "I Think I Love You": {
+            "ID": 115,
+            "Telegram": "/IThinkILoveYou - I Think I Love you - Auriane Desombre",
+            "Name": "/IThinkILoveYou"
+        },
+        "Leis do Destino": {
+            "ID": 132,
+            "Telegram": "/LeisDoDestino - Leis do Destino - Mel Bessa",
+            "Name": "/LeisDoDestino"
+        },
+        "Melodia": {
+            "ID": 138,
+            "Telegram": "/Melodia - Melodia - Lisa Bee",
+            "Name": "/Melodia"
+        },
+        "Mesa 27": {
+            "ID": 140,
+            "Telegram": "/Mesa2 - Mesa 27 - Adriana Nicolodi",
+            "Name": "/Mesa2"
+        },
+        "Meu Lugar ao Sol": {
+            "ID": 141,
+            "Telegram": "/meuLugarAoSol - Meu Lugar ao Sol - Leah Johnson",
+            "Name": "/meuLugarAoSol"
+        },
+        "Minha Querida Sputnik": {
+            "ID": 143,
+            "Telegram": "/MinhaQueridaSputnik - Minha Querida Sputnik - Haruki Murakami",
+            "Name": "/MinhaQueridaSputnik"
+        },
+        "Nevernight": {
+            "ID": 152,
+            "Telegram": "/Nevernight - Nevernight - Jay Kristoff",
+            "Name": "/Nevernight"
+        },
+        "Nao Conte Nosso Segredo": {
+            "ID": 151,
+            "Telegram": "/NaoConteNosso - Nao Conte Nosso Segredo - Julie Anne Peters",
+            "Name": "/NaoConteNosso"
+        },
+        "Once Upon a Princess": {
+            "ID": 173,
+            "Telegram": "/OnceUponaPrincess - Once Upon a Princess - Harper Bliss e Clare Lydon",
+            "Name": "/OnceUponaPrincess"
+        },
+        "Over the Rainbow , Um Livro de Contos de Fadxs": {
+            "ID": 180,
+            "Telegram": "/OverTheRainbow - Over the Rainbow , Um Livro de Contos de Fadxs - Varios autores",
+            "Name": "/OverTheRainbow"
+        },
+        "Porque Eu Sei Que \u00e9 Amor": {
+            "ID": 181,
+            "Telegram": "/PorqueEuSeiQue - Porque Eu Sei Que \u00e9 Amor - Mel Bessa",
+            "Name": "/PorqueEuSeiQue"
+        },
+        "Get It Right 1 Love at Knockdown": {
+            "ID": 96,
+            "Telegram": "/GetItRight - Get It Right 1 Love at Knockdown - Skye Kilaen",
+            "Name": "/GetItRight"
+        },
+        "Rainhas Geek": {
+            "ID": 185,
+            "Telegram": "/RainhasGeek - Rainhas Geek - Jen Wilde",
+            "Name": "/RainhasGeek"
+        },
+        "Sal": {
+            "ID": 191,
+            "Telegram": "/Sal - Sal - Tessa Reis",
+            "Name": "/Sal"
+        },
+        "Simplesmente Irresist\u00edvel": {
+            "ID": 200,
+            "Telegram": "/SimplesmenteIrre - Simplesmente Irresist\u00edvel - Karina Dias",
+            "Name": "/SimplesmenteIrre"
+        },
+        "something to talk about": {
+            "ID": 203,
+            "Telegram": "/somethingToTalk - something to talk about",
+            "Name": "/somethingToTalk"
+        },
+        "Style": {
+            "ID": 204,
+            "Telegram": "/Style - Style - Chelsea M. Cameron",
+            "Name": "/Style"
+        },
+        "The Gravity Between Us": {
+            "ID": 222,
+            "Telegram": "/TheGravityBetweenUs - The Gravity Between Us - Kristen Zimmer",
+            "Name": "/TheGravityBetweenUs"
+        },
+        "Todos N\u00f3s Ador\u00e1vamos Caub\u00f3is": {
+            "ID": 243,
+            "Telegram": "/TodosN - Todos N\u00f3s Ador\u00e1vamos Caub\u00f3is - Carol Bensimon",
+            "Name": "/TodosN"
+        },
+        "Tomates Verdes Fritos": {
+            "ID": 244,
+            "Telegram": "/TomatesVerde - Tomates Verdes Fritos - Fannie Flagg",
+            "Name": "/TomatesVerde"
+        },
+        "Ultima parada": {
+            "ID": 250,
+            "Telegram": "/UltimaParada - Ultima parada - Casey McQuiston",
+            "Name": "/UltimaParada"
+        },
+        "Uma Bebida e Um Amor Sem Gelo Por Favor": {
+            "ID": 251,
+            "Telegram": "/UmaBebidaE - Uma Bebida e Um Amor Sem Gelo Por Favor - Liliane Prata",
+            "Name": "/UmaBebidaE"
+        },
+        "Uma Noite e Seis Semanas": {
+            "ID": 252,
+            "Telegram": "/UmaNoiteESe - Uma Noite e Seis Semanas - Tiago Morini",
+            "Name": "/UmaNoiteESe"
+        },
+        "A Primeira Vista": {
+            "ID": 15,
+            "Telegram": "/APrimeiraVista - A Primeira Vista - David Levithane Nina La Cour",
+            "Name": "/APrimeiraVista"
+        },
+        "\u00c9 assim que se perde a guerra do tempo": {
+            "ID": 265,
+            "Telegram": "/EAssimQue - \u00c9 assim que se perde a guerra do tempo - El-Mohtar Amal",
+            "Name": "/EAssimQue"
+        },
+        "A Girl Called London": {
+            "ID": 8,
+            "Telegram": "/AGirlCalled - A Girl Called London - Lydon Clare",
+            "Name": "/AGirlCalled"
+        },
+        "All I Want For Summer": {
+            "ID": 23,
+            "Telegram": "/AllIWantFor - All I Want For Summer - Lydon Clare",
+            "Name": "/AllIWantFor"
+        },
+        "Amores": {
+            "ID": 29,
+            "Telegram": "/Amores - Amores - Le\u00f3nor de R\u00e9condo",
+            "Name": "/Amores"
+        },
+        "The Falling in Love Montage": {
+            "ID": 221,
+            "Telegram": "/TheFallingInLove - The Falling in Love Montage - Ciara Smyth",
+            "Name": "/TheFallingInLove"
+        },
+        "Dating Sarah Cooper": {
+            "ID": 63,
+            "Telegram": "/DatingSarahCo - Dating Sarah Cooper - Maley Siera",
+            "Name": "/DatingSarahCo"
+        },
+        "Everything Leads to You": {
+            "ID": 85,
+            "Telegram": "/EverythingLeadsTo - Everything Leads to You - LaCour Nina",
+            "Name": "/EverythingLeadsTo"
+        },
+        "Georgia Peaches and Other Forbidden Fruit": {
+            "ID": 95,
+            "Telegram": "/GeorgiaPeaches - Georgia Peaches and Other Forbidden Fruit - Jaye Robin Brown",
+            "Name": "/GeorgiaPeaches"
+        },
+        "Guia de mec\u00e2nica celeste para damas": {
+            "ID": 105,
+            "Telegram": "/GuiaDeMec - Guia de mec\u00e2nica celeste para damas - Olivia Waite",
+            "Name": "/GuiaDeMec"
+        },
+        "Her Best Friends Sister": {
+            "ID": 106,
+            "Telegram": "/HerBestFrien - Her Best Friends Sister - O brien Meghan",
+            "Name": "/HerBestFrien"
+        },
+        "Sua Alteza Real": {
+            "ID": 205,
+            "Telegram": "/HerRoyalHigh - Sua Alteza Real - Rachel Hawkins",
+            "Name": "/HerRoyalHigh"
+        },
+        "Tell Me How You Really Feel": {
+            "ID": 209,
+            "Telegram": "/TellMeHow - Tell Me How You Really Feel - Safi Aminah Mae",
+            "Name": "/TellMeHow"
+        },
+        "The care and feeding of waspish windows": {
+            "ID": 216,
+            "Telegram": "/TheCareAnd - The care and feeding of waspish windows - Olivia Waite",
+            "Name": "/TheCareAnd"
+        },
+        "I Kissed Alice": {
+            "ID": 114,
+            "Telegram": "/IKissedAlice - I Kissed Alice - Anna Birch",
+            "Name": "/IKissedAlice"
+        },
+        "Just Visiting": {
+            "ID": 125,
+            "Telegram": "/JustVisiting - Just Visiting - Adler Dahlia",
+            "Name": "/JustVisiting"
+        },
+        "Keeping You A Secret": {
+            "ID": 126,
+            "Telegram": "/KeepingYouA - Keeping You A Secret - Peters Julie Anne",
+            "Name": "/KeepingYouA"
+        },
+        "Late to the Party": {
+            "ID": 129,
+            "Telegram": "/LateToThe - Late to the Party - Kelly Quindlen",
+            "Name": "/LateToThe"
+        },
+        "Lets Talk About Love": {
+            "ID": 133,
+            "Telegram": "/LetsTalkAbout - Lets Talk About Love - Claire Kann",
+            "Name": "/LetsTalkAbout"
+        },
+        "Mutual Benefits": {
+            "ID": 147,
+            "Telegram": "/MutualBenefits - Mutual Benefits - HP Munro",
+            "Name": "/MutualBenefits"
+        },
+        "Nothing To Lose A Lesbian Romance": {
+            "ID": 159,
+            "Telegram": "/NothingToLose - Nothing To Lose A Lesbian Romance - Lydon Clare",
+            "Name": "/NothingToLose"
+        },
+        "Os Sete Maridos de Evelyn Hugo": {
+            "ID": 178,
+            "Telegram": "/OsSeteMaridos - Os Sete Maridos de Evelyn Hugo - Taylor Jenkins Reid",
+            "Name": "/OsSeteMaridos"
+        },
+        "The Hellions Waltz": {
+            "ID": 223,
+            "Telegram": "/TheHellions - The Hellions Waltz - Olivia Waite",
+            "Name": "/TheHellions"
+        },
+        "The Henna Wars": {
+            "ID": 224,
+            "Telegram": "/TheHennaWars - The Henna Wars - Adiba Jaigirdar",
+            "Name": "/TheHennaWars"
+        },
+        "The Space Between": {
+            "ID": 235,
+            "Telegram": "/TheSpaceBet - The Space Between - Teichman Michelle L.",
+            "Name": "/TheSpaceBet"
+        },
+        "Time It Right": {
+            "ID": 242,
+            "Telegram": "/TimeItRight - Time It Right - Maley Siera",
+            "Name": "/TimeItRight"
+        },
+        "Wrong Number, Right Woman": {
+            "ID": 263,
+            "Telegram": "/WrongNumber - Wrong Number, Right Woman - Jae",
+            "Name": "/WrongNumber"
+        },
+        "Behind Closed Doors": {
+            "ID": 42,
+            "Telegram": "/BehindClosedDoors - Behind Closed Doors - Anna Stone",
+            "Name": "/BehindClosedDoors"
+        },
+        "A Menina Submersa": {
+            "ID": 12,
+            "Telegram": "/AMeninaSubmersa - A Menina Submersa - Caitl\u00edn R. Kiernan",
+            "Name": "/AMeninaSubmersa"
+        },
+        "Codinome Villanelle": {
+            "ID": 57,
+            "Telegram": "/CodinomeVillanelle - Codinome Villanelle - Luke Jennings",
+            "Name": "/CodinomeVillanelle"
+        },
+        "Fingersmith": {
+            "ID": 87,
+            "Telegram": "/Fingersmith - Fingersmith - Sarah Waters [Ingles]",
+            "Name": "/Fingersmith"
+        },
+        "Na Linha de Fogo": {
+            "ID": 149,
+            "Telegram": "/naLinhaDeFogo - Na Linha de Fogo - Lauren Galagher",
+            "Name": "/naLinhaDeFogo"
+        },
+        "Na Ponta Dos Dedos": {
+            "ID": 150,
+            "Telegram": "/NaPontaDosDedos - Na Ponta Dos Dedos - Sarah Waters",
+            "Name": "/NaPontaDosDedos"
+        },
+        "Shes Too Pretty to Burn": {
+            "ID": 199,
+            "Telegram": "/ShesTooPrettyToBurn - Shes Too Pretty to Burn - Wendy Heard",
+            "Name": "/ShesTooPrettyToBurn"
+        },
+        "Caindo de Paraquedas": {
+            "ID": 49,
+            "Telegram": "/CaindoDePara - Caindo de Paraquedas - Kelly Yang",
+            "Name": "/CaindoDePara"
+        },
+        "Guia de Cuidados com Abelhas Rainhas": {
+            "ID": 104,
+            "Telegram": "/GuiaDeCuidados - Guia de Cuidados com Abelhas Rainhas - Olivia Waite",
+            "Name": "/GuiaDeCuidados"
+        },
+        "I am The Ghost In Your House": {
+            "ID": 113,
+            "Telegram": "/IAmTheGhost - I am The Ghost In Your House - Maria Romasco-Moore",
+            "Name": "/IAmTheGhost"
+        },
+        "Press\u00e1gios do amor": {
+            "ID": 182,
+            "Telegram": "/AlexandriaBellef - Press\u00e1gios do amor - Alexandria Bellefleur",
+            "Name": "/AlexandriaBellef"
+        },
+        "No Rings Attached": {
+            "ID": 154,
+            "Telegram": "/NoRingsAtt - No Rings Attached - Rachel Lacey",
+            "Name": "/NoRingsAtt"
+        },
+        "Honey Girl": {
+            "ID": 110,
+            "Telegram": "/HoneyGirl - Honey Girl - Morgan Rogers",
+            "Name": "/HoneyGirl"
+        },
+        "Last Night at The Telegraph Club": {
+            "ID": 128,
+            "Telegram": "/LastNightAt - Last Night at The Telegraph Club - Malinda Lo",
+            "Name": "/LastNightAt"
+        },
+        "Sem amor": {
+            "ID": 198,
+            "Telegram": "/SemAmor - Sem amor - Alice Oseman",
+            "Name": "/SemAmor"
+        },
+        "Some Girls Do": {
+            "ID": 202,
+            "Telegram": "/SomeGirlsDo - Some Girls Do - Jennifer Dugan",
+            "Name": "/SomeGirlsDo"
+        },
+        "Tryst Syx Venon": {
+            "ID": 248,
+            "Telegram": "/TrystSyx - Tryst Syx Venon - Penelope Douglas",
+            "Name": "/TrystSyx"
+        },
+        "A lista da sorte": {
+            "ID": 11,
+            "Telegram": "/AListaDa - A lista da sorte - Rachael Lippincott",
+            "Name": "/AListaDa"
+        },
+        "Ela Fica Com a Garota": {
+            "ID": 73,
+            "Telegram": "/ElaFicaComA - Ela Fica Com a Garota - Rachel Lippincott",
+            "Name": "/ElaFicaComA"
+        },
+        "O corpo dela e outras farras": {
+            "ID": 162,
+            "Telegram": "/OCorpoDela - O corpo dela e outras farras - Carmen Maria Machado",
+            "Name": "/OCorpoDela"
+        },
+        "O relogio das flores": {
+            "ID": 170,
+            "Telegram": "/ORelogioDas - O relogio das flores - Drey Damaso Sara Lecter",
+            "Name": "/ORelogioDas"
+        },
+        "Transadas hist\u00f3rias safadinhas para mulheres que amam mulheres": {
+            "ID": 245,
+            "Telegram": "/Transadas - Transadas hist\u00f3rias safadinhas para mulheres que amam mulheres - Elea",
+            "Name": "/Transadas"
+        },
+        "De volta para voc\u00ea": {
+            "ID": 66,
+            "Telegram": "/DeVoltaParaVoce - De volta para voc\u00ea - Clare Lydon",
+            "Name": "/DeVoltaParaVoce"
+        },
+        "Entre dentes": {
+            "ID": 76,
+            "Telegram": "/EntreDentes - Entre dentes - Kristen Arnett",
+            "Name": "/EntreDentes"
+        },
+        "Eu beijei Shara Wheeler": {
+            "ID": 82,
+            "Telegram": "/EuBeijeiShara - Eu beijei Shara Wheeler - Casey McQuiston",
+            "Name": "/EuBeijeiShara"
+        },
+        "O Medo \u00e9 Feito de Gelo": {
+            "ID": 167,
+            "Telegram": "/OMedoEFeito - O Medo \u00e9 Feito de Gelo - L.S Englantine",
+            "Name": "/OMedoEFeito"
+        },
+        "Delilah Green n\u00e3o esta nem ai": {
+            "ID": 68,
+            "Telegram": "/DelilahGreenNao - Delilah Green n\u00e3o esta nem ai - Ashley Harrinson Blake",
+            "Name": "/DelilahGreenNao"
+        },
+        "Sealed With a Kiss": {
+            "ID": 195,
+            "Telegram": "/SealedWith - Sealed With a Kiss - C.P. Watson",
+            "Name": "/SealedWith"
+        },
+        "The Devil Wears Tartan": {
+            "ID": 219,
+            "Telegram": "/TheDevilWears - The Devil Wears Tartan - Katia Rose",
+            "Name": "/TheDevilWears"
+        },
+        "How to Excavate a Heart": {
+            "ID": 111,
+            "Telegram": "/HowToExcavate - How to Excavate a Heart - Jake Maia Arlow",
+            "Name": "/HowToExcavate"
+        },
+        "Just A Touch Away": {
+            "ID": 124,
+            "Telegram": "/JustATouchAway - Just A Touch Away - Jae",
+            "Name": "/JustATouchAway"
+        },
+        "Miss Meteor": {
+            "ID": 145,
+            "Telegram": "/MissMeteor - Miss Meteor - Tehlor Kay Mejia and Anna-Marie McLemore",
+            "Name": "/MissMeteor"
+        },
+        "Not Alone on Christmas": {
+            "ID": 155,
+            "Telegram": "/NotAloneOn - Not Alone on Christmas - D.M Winters",
+            "Name": "/NotAloneOn"
+        },
+        "Season of Love": {
+            "ID": 196,
+            "Telegram": "/SeasonOfLove - Season of Love - Helena Greer",
+            "Name": "/SeasonOfLove"
+        },
+        "The Lesbianas Guide to Catholic School": {
+            "ID": 226,
+            "Telegram": "/TheLesbianasGuide - The Lesbianas Guide to Catholic School - Sonora Reyes",
+            "Name": "/TheLesbianasGuide"
+        },
+        "A cliente": {
+            "ID": 3,
+            "Telegram": "/ACliente - A cliente - Scarlett Grace",
+            "Name": "/ACliente"
+        },
+        "A Noiva de Inverno da Fazendeira de Dinossauros": {
+            "ID": 13,
+            "Telegram": "/ANoivaDeInverno - A Noiva de Inverno da Fazendeira de Dinossauros - Eloise Sumner",
+            "Name": "/ANoivaDeInverno"
+        },
+        "Acredite Em Voc\u00ea": {
+            "ID": 21,
+            "Telegram": "/AcrediteEmVoce - Acredite Em Voc\u00ea - Chloe Peterson",
+            "Name": "/AcrediteEmVoce"
+        },
+        "Arco do Cupido": {
+            "ID": 33,
+            "Telegram": "/ArcoDoCupido - Arco do Cupido - Karen F Williams",
+            "Name": "/ArcoDoCupido"
+        },
+        "At First Glance": {
+            "ID": 38,
+            "Telegram": "/AtFirstGlance - At First Glance - Melissa Tereze",
+            "Name": "/AtFirstGlance"
+        },
+        "Gata Negra nos Bastidores Conto": {
+            "ID": 94,
+            "Telegram": "/GataNegraNos - Gata Negra nos Bastidores Conto - Nicolette Dane",
+            "Name": "/GataNegraNos"
+        },
+        "Lamentar e jantar": {
+            "ID": 127,
+            "Telegram": "/LamentarEJantar - Lamentar e jantar - JAE",
+            "Name": "/LamentarEJantar"
+        },
+        "Like Other Girls": {
+            "ID": 135,
+            "Telegram": "/LikeOtherGirls - Like Other Girls - Britta Lundin",
+            "Name": "/LikeOtherGirls"
+        },
+        "Minha deslumbrante chefe l\u00e9sbica": {
+            "ID": 142,
+            "Telegram": "/MinhaDeslumbrante - Minha deslumbrante chefe l\u00e9sbica - Maxime Lich",
+            "Name": "/MinhaDeslumbrante"
+        },
+        "Mudan\u00e7a de Ritmo": {
+            "ID": 146,
+            "Telegram": "/MudancaDeRitmo - Mudan\u00e7a de Ritmo - JAE",
+            "Name": "/MudancaDeRitmo"
+        },
+        "O Sof\u00e1 da Meia Noite": {
+            "ID": 171,
+            "Telegram": "/OSofaDa - O Sof\u00e1 da Meia Noite - JAE",
+            "Name": "/OSofaDa"
+        },
+        "Read Between the Lines": {
+            "ID": 186,
+            "Telegram": "/ReadBetweenThe - Read Between the Lines - Rachel Lacey",
+            "Name": "/ReadBetweenThe"
+        },
+        "Truth or dare": {
+            "ID": 247,
+            "Telegram": "/TruthOrDare - Truth or dare - Jamie Hill",
+            "Name": "/TruthOrDare"
+        },
+        "The Brutal Truth": {
+            "ID": 215,
+            "Telegram": "/TheBrutalTruth - The Brutal Truth - Lee Winter",
+            "Name": "/TheBrutalTruth"
+        },
+        "Seasons": {
+            "ID": 197,
+            "Telegram": "/Seasons - Seasons - Charity Parkenson",
+            "Name": "/Seasons"
+        },
+        "Her Royal Highness (Royals #2)": {
+            "ID": 108,
+            "Telegram": "/HerRoyalHighness - Her Royal Highness (Royals #2) - Rachel Hawkins",
+            "Name": "/HerRoyalHighness"
+        },
+        "A presa de Hawke": {
+            "ID": 14,
+            "Telegram": "/aPresaDeHawke - A presa de Hawke - Natasha West",
+            "Name": "/aPresaDeHawke"
+        },
+        "Espere ate me ver de coroa": {
+            "ID": 80,
+            "Telegram": "/EspereAteMeVer - Espere ate me ver de coroa - Leah Johnson",
+            "Name": "/EspereAteMeVer"
+        }
+    }
+}
