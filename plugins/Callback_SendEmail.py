@@ -23,7 +23,7 @@ async def sendEmail_handler(app: Client, callback: CallbackQuery):
 
     # Check if the user has an email
     if user_email is not None:
-
+ 
 
         # Construct the command to run the 'SendEmail.py' script
         command = f"functions/default/SendEmail.py {user_email} {book_id}"
