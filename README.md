@@ -1,2 +1,2 @@
 # BookLibrary
-Source code from https://t.me/LivrosLesbicosBot
+Source code of https://t.me/LivrosLesbicosBot
