@@ -1,0 +1,15 @@
+__pycache__/
+serverConfig/__pycache__/
+plugins/__pycache__/
+helpers/__pycache__/
+functions/asyncs/__pycache__/
+functions/default/__pycache__/
+functions/admin/__pycache__/
+defaultMessages/__pycache__/
+database/__pycache__/
+books/
+/*.session
+.vscode/
+serverConfig/*.env
+tests.py
+*.db
