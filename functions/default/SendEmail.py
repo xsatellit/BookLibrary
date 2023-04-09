@@ -57,7 +57,7 @@ class SendEmail:
     def setEmail(self) -> None:
         """Create the email message with the attachment"""
         try:
-            path = SearchFiles().searchFileByID(self.bookID, "txt")
+            path = SearchFiles().searchFileByID(self.bookID, "epub")
             bookName = DatabaseFunctions().getBookName(self.bookID)
             self.email_msg = MIMEMultipart()
             self.email_msg["From"] = self.login
@@ -67,7 +67,7 @@ class SendEmail:
             path = open(path, "rb")
             epub = MIMEApplication(path.read())
             epub.add_header("Content-Disposition",
-                            "attachment", filename=f"{bookName}.txt")
+                            "attachment", filename=f"{bookName}.epub")
             self.email_msg.attach(epub)
         except Exception as e:
             raise RuntimeError(f"SendEmail.py: Couldn't set email configuration! Error: {e}")

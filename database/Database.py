@@ -8,9 +8,9 @@ class DatabaseFunctions:
         try:
             self.conn = sqlite3.connect("libraryDB.db") # Create a connection to the database
         except sqlite3.IntegrityError as e:
-            raise RuntimeError(f"IntegrityError occurred while connecting to server.\nError code: {e.sqlite_errorcode}\nError name: {e.sqlite_errorname}\nError: {e}")
+            raise RuntimeError(f"IntegrityError occurred while connecting to server.\nError: {e}")
         except sqlite3.OperationalError as e:
-            raise RuntimeError(f"IntegrityError occurred while connecting to server.\nError code: {e.sqlite_errorcode}\nError name: {e.sqlite_errorname}\nError: {e}")
+            raise RuntimeError(f"IntegrityError occurred while connecting to server.\nError: {e}")
         
     def getAllBooks(self) -> dict:
         """
@@ -163,7 +163,7 @@ class DatabaseFunctions:
             self.conn.execute("UPDATE books SET name=? WHERE id=?", (newName, bookID))
             self.conn.commit()
         except sqlite3.OperationalError as e:
-            raise ValueError(f"Database.py: the book wih id {bookID} was not found in the database.\nError code: {e.sqlite_errorcode}\nError name: {e.sqlite_errorname}\nError: {e}")
+            raise ValueError(f"Database.py: the book wih id {bookID} was not found in the database.\nError: {e}")
     
     def updateBookSynopsis(self, bookID: int, newSynopsis: str) -> None:
         """
@@ -173,17 +173,17 @@ class DatabaseFunctions:
             self.conn.execute("UPDATE books SET synopsis=? WHERE id=?", (newSynopsis, bookID))
             self.conn.commit()
         except sqlite3.OperationalError as e:
-            raise ValueError(f"Database.py: the book wih id {bookID} was not found in the database.\nError code: {e.sqlite_errorcode}\nError name: {e.sqlite_errorname}\nError: {e}")
+            raise ValueError(f"Database.py: the book wih id {bookID} was not found in the database.\nError: {e}")
 
     def updateBookAuthor(self, bookID: int, newAuthor: str) -> None:
         """
         Update the synopsis of a book with the given ID to the given new author.
         """
         try:
-            self.conn.execute("UPDATE books SET author=? WHERE id=", (newAuthor, bookID))
+            self.conn.execute("UPDATE books SET author=? WHERE id=?", (newAuthor, bookID))
             self.conn.commit()
         except sqlite3.OperationalError as e:
-            raise ValueError(f"Database.py: the book wih id {bookID} was not found in the database.\nError code: {e.sqlite_errorcode}\nError name: {e.sqlite_errorname}\nError: {e}")
+            raise ValueError(f"Database.py: the book wih id {bookID} was not found in the database.\nError: {e}")
 
 
     def updateBookIMG(self, bookID: int, url: str) -> None:
@@ -194,7 +194,7 @@ class DatabaseFunctions:
             self.conn.execute("UPDATE booksURL SET url=? WHERE id=?", (url, bookID))
             self.conn.commit()
         except sqlite3.OperationalError as e:
-            raise ValueError(f"Database.py: the book wih id {bookID} was not found in the database.\nError code: {e.sqlite_errorcode}\nError name: {e.sqlite_errorname}\nError: {e}")
+            raise ValueError(f"Database.py: the book wih id {bookID} was not found in the database.\nError: {e}")
 
     def updateUserEmail(self, userID: int, newEmail: str) -> None:
         """
@@ -204,7 +204,7 @@ class DatabaseFunctions:
             self.conn.execute("UPDATE users SET email=? WHERE id=?", (newEmail, userID))
             self.conn.commit()
         except sqlite3.OperationalError as e:
-            raise ValueError(f"Database.py: the user wih id {userID} was not found in the database.\nError code: {e.sqlite_errorcode}\nError name: {e.sqlite_errorname}\nError: {e}")
+            raise ValueError(f"Database.py: the user wih id {userID} was not found in the database.\nError: {e}")
 
     # adm function
     def updateAdmType(self, userID: int, newType: int):
@@ -215,7 +215,7 @@ class DatabaseFunctions:
             self.conn.execute("UPDATE adm SET type=? WHERE id=?", (newType, userID))
             self.conn.commit()
         except sqlite3.OperationalError as e:
-            raise ValueError(f"Database.py: the user wih id {userID} was not found in the database.\nError code: {e.sqlite_errorcode}\nError name: {e.sqlite_errorname}\nError: {e}")
+            raise ValueError(f"Database.py: the user wih id {userID} was not found in the database.\nError: {e}")
 
     def addUser(self, userID: int, userEmail: str) -> None:
         """
@@ -267,7 +267,7 @@ class DatabaseFunctions:
             self.conn.execute("DELETE FROM books WHERE id=?", (bookID,))
             self.conn.commit()
         except sqlite3.OperationalError as e:
-            raise ValueError(f"Database.py: the book wih id {bookID} was not found in the database.\nError code: {e.sqlite_errorcode}\nError name: {e.sqlite_errorname}\nError: {e}")
+            raise ValueError(f"Database.py: the book wih id {bookID} was not found in the database.\nError: {e}")
 
     def removeBookIMG(self, bookID: int) -> None:
         """
@@ -277,7 +277,7 @@ class DatabaseFunctions:
             self.conn.execute("DELETE FROM booksURL WHERE id=?", (bookID,))
             self.conn.commit()
         except sqlite3.OperationalError as e:
-            raise ValueError(f"Database.py: the book wih id {bookID} was not found in the database.\nError code: {e.sqlite_errorcode}\nError name: {e.sqlite_errorname}\nError: {e}")
+            raise ValueError(f"Database.py: the book wih id {bookID} was not found in the database.\nError: {e}")
     
     def removeUser(self, user_id: int) -> None:
         """
@@ -287,7 +287,7 @@ class DatabaseFunctions:
             self.conn.execute("DELETE FROM users WHERE id=?", (user_id,))
             self.conn.commit()
         except sqlite3.OperationalError as e:
-            raise ValueError(f"Database.py: the user wih id {user_id} was not found in the database.\nError code: {e.sqlite_errorcode}\nError name: {e.sqlite_errorname}\nError: {e}")
+            raise ValueError(f"Database.py: the user wih id {user_id} was not found in the database.\nError: {e}")
 
     # admin function
     def removeAdm(self, user_id: int) -> None:
@@ -298,7 +298,7 @@ class DatabaseFunctions:
             self.conn.execute("DELETE FROM adm WHERE id=?", (user_id))
             self.conn.commit()
         except sqlite3.OperationalError as e:
-            raise ValueError(f"Database.py: the user wih id {user_id} was not found in the database.\nError code: {e.sqlite_errorcode}\nError name: {e.sqlite_errorname}\nError: {e}")
+            raise ValueError(f"Database.py: the user wih id {user_id} was not found in the database.\nError: {e}")
 
     def checkUserExists(self, userID: int) -> bool:
         """

@@ -11,5 +11,7 @@ books/
 /*.session
 .vscode/
 serverConfig/*.env
+serverConfig/*.py
 tests.py
 *.db
+*.pdf

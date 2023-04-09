@@ -33,7 +33,6 @@ async def handle_adminBook(app: Client, callback: CallbackQuery):
             try:
                 if book_category.text.lower() != "cancelar":
                     while book_category.text not in LIST_OF_CATEGORIES:
-                        print(book_category.text)
                         book_category = await callback.message.chat.ask(
                             "Digite a categoria do livro: (Aventura, Biografia, Drama, Fantasia, Ficcção Científica, Romance): "
                         )

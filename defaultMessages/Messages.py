@@ -21,7 +21,7 @@ digite "/pesquisar + nome do livro" a qualquer momento.</i>
 outro arquivo externo para seu kindle.</i>
 
 
-Source code: https://github.com/xsatellit/BookLibrary
+Source code: https://github.com/snttsz/BookLibrary
 """
                 return text_start
         

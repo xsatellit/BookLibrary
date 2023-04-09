@@ -12,6 +12,7 @@ app = Client(
 
 if __name__ == "__main__":
     try:
+        print("Bot iniciado")
         app.run()
     except Exception as e:
         print(f"Error occurred at Client.py --> {e}")

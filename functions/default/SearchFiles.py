@@ -24,7 +24,8 @@ class SearchFiles:
         class_dir = os.path.dirname(os.path.abspath(__file__))
 
         # Construct the path to the books directory relative to the class file directory
-        books_dir = os.path.join(class_dir, '../..', 'books', 'synopsis')
+        books_dir = os.path.join(class_dir, '../..', 'books')
+
         matches = [os.path.join(root, file) for root, _, files in os.walk(books_dir)
                    for file in files if file.endswith(extension) and bookName.lower().strip() in unidecode(file.lower())]
 
@@ -45,9 +46,14 @@ class SearchFiles:
         database.conn.close()
         return self.searchFile(bookName, extension)
     
-    def removeFile(self, fileName, extension) -> str:
+    def removeFile(self, fileName: str, extension: str) -> str:
         filepath = self.searchFile(fileName, extension)
         if os.path.exists(filepath):
             os.remove(filepath)
         else:
             raise RuntimeError("O arquivo não foi encontrado para remoção.")
+    
+    def checkFile(self, book_ID: int, extension: str) -> bool:
+        if self.searchFileByID(book_ID, extension) is not None:
+            return True
+        return False
