@@ -68,7 +68,7 @@ class Admin:
     
     def updateBookName(self, bookID: int, newName: str) -> str:
         try:
-            # self.database.updateBookName(bookID, newName)
+            self.database.updateBookName(bookID, newName)
             book_name = self.json.getKeyForSubkey("ID", bookID)
             book_gender = self.json.getMasterkeyForKey(book_name)
             self.json.updateKey(book_gender, book_name, newName)
